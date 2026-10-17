@@ -1,0 +1,22 @@
+{
+  "_note": "Prompt SDXL bị cắt sau khoảng 77 token, nên giữ ngắn. 'chosen' là style đã chọn sau bước explore.",
+  "chosen": "A",
+  "candidates": {
+    "A": "2d game sprite, bold thick black outline, flat cel shading, vibrant colors, cute chibi proportions, clean vector style",
+    "B": "2d mobile game art, thick dark outline, soft cel shading, slightly desaturated post-apocalyptic palette, chunky stylized shapes",
+    "C": "hand-drawn cartoon game asset, bold ink outline, flat colors with simple highlights, playful exaggerated shapes, high contrast"
+  },
+  "views": {
+    "sprite": "top-down view seen from directly above, single object centered, isolated on plain white background",
+    "portrait": "character portrait, front view, chest up, centered, plain light gray background",
+    "icon": "game item icon, centered, simple silhouette, isolated on plain white background",
+    "keyart": "game cover illustration, wide composition, dramatic lighting"
+  },
+  "negative": "photo, realistic, 3d render, blurry, noisy, text, watermark, signature, logo, frame, border, cropped, multiple objects, shadow on ground, perspective, gradient background, lowres, jpeg artifacts, deformed",
+  "explore_subjects": [
+    { "id": "raft", "view": "sprite", "subject": "small armored raft made of scrap metal and oil barrels with a mounted harpoon gun" },
+    { "id": "shark", "view": "sprite", "subject": "mutant shark with metal scraps stuck on its back, swimming" },
+    { "id": "jellyfish", "view": "sprite", "subject": "glowing toxic green jellyfish with long tentacles" },
+    { "id": "portrait_maya", "view": "portrait", "subject": "young asian woman marine biologist, short black hair, wetsuit jacket, confident smile" }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "_note": "Mỗi item tạo ra 'count' biến thể, bạn chọn 1 ảnh tốt nhất. width/height mặc định là 1024. id trùng với id trong spec.",
+  "items": [
+    { "id": "raft_rook", "category": "rafts", "view": "sprite", "count": 4, "subject": "small armored military raft made of scrap metal plates and oil barrels, mounted harpoon gun" },
+    { "id": "raft_maya", "category": "rafts", "view": "sprite", "count": 4, "subject": "research raft with blue water tanks, small solar panels and a tiny lab hut" },
+    { "id": "raft_tavi", "category": "rafts", "view": "sprite", "count": 4, "subject": "engineer raft with a small crane, toolboxes and a drone landing pad" },
+
+    { "id": "drowned", "category": "enemies", "view": "sprite", "count": 4, "subject": "drowned zombie swimming, pale blue skin, seaweed in hair, arms reaching forward" },
+    { "id": "piranha", "category": "enemies", "view": "sprite", "count": 4, "subject": "small aggressive red piranha fish with big teeth" },
+    { "id": "jellyfish", "category": "enemies", "view": "sprite", "count": 4, "subject": "glowing toxic green jellyfish with long tentacles" },
+    { "id": "shark", "category": "enemies", "view": "sprite", "count": 4, "subject": "mutant gray shark with metal scraps stuck on its back, swimming" },
+    { "id": "crab_tank", "category": "enemies", "view": "sprite", "count": 4, "subject": "huge armored crab with a rusty metal shell plate on its back" },
+    { "id": "raider_skiff", "category": "enemies", "view": "sprite", "count": 4, "subject": "small pirate raider motorboat with one masked gunner, red flags" },
+    { "id": "drift_mine", "category": "enemies", "view": "sprite", "count": 4, "subject": "old rusty naval sea mine with spikes, floating" },
+    { "id": "mutant_eel", "category": "enemies", "view": "sprite", "count": 4, "subject": "long purple mutant sea eel with glowing spots, curved s-shape body" },
+    { "id": "gull_flock", "category": "enemies", "view": "sprite", "count": 4, "subject": "angry mutant seagull with spread wings flying" },
+
+    { "id": "hermit_leviathan", "category": "bosses", "view": "sprite", "count": 6, "subject": "giant hermit crab boss living inside a sunken rusty ship hull, huge claws" },
+    { "id": "raider_warlord", "category": "bosses", "view": "sprite", "count": 6, "subject": "large pirate warlord battleship boss made of scrap, cannons and skull flags" },
+    { "id": "the_maw", "category": "bosses", "view": "sprite", "count": 6, "subject": "colossal deep sea monster boss, giant round mouth with rows of teeth, tentacles around it" },
+
+    { "id": "portrait_rook", "category": "portraits", "view": "portrait", "count": 6, "subject": "rugged middle-aged male ex-marine captain, buzz cut, scar on cheek, navy vest, stern look" },
+    { "id": "portrait_maya", "category": "portraits", "view": "portrait", "count": 6, "subject": "young asian woman marine biologist, short black hair, wetsuit jacket, confident smile" },
+    { "id": "portrait_tavi", "category": "portraits", "view": "portrait", "count": 6, "subject": "cheerful young engineer with goggles on forehead, curly hair, orange overalls, wrench" },
+
+    { "id": "icon_harpoon", "category": "icons_weapons", "view": "icon", "count": 4, "subject": "harpoon gun weapon" },
+    { "id": "icon_scrap_saw", "category": "icons_weapons", "view": "icon", "count": 4, "subject": "spinning circular saw blade made of scrap metal" },
+    { "id": "icon_water_cannon", "category": "icons_weapons", "view": "icon", "count": 4, "subject": "water cannon nozzle shooting a water jet" },
+    { "id": "icon_flare_mortar", "category": "icons_weapons", "view": "icon", "count": 4, "subject": "small mortar launcher with a red flare shell" },
+    { "id": "icon_depth_charge", "category": "icons_weapons", "view": "icon", "count": 4, "subject": "yellow depth charge barrel bomb" },
+    { "id": "icon_tesla_buoy", "category": "icons_weapons", "view": "icon", "count": 4, "subject": "floating buoy with a tesla coil and blue electric sparks" },
+    { "id": "icon_scout_drone", "category": "icons_weapons", "view": "icon", "count": 4, "subject": "small quadcopter drone with a tiny gun" },
+    { "id": "icon_net_launcher", "category": "icons_weapons", "view": "icon", "count": 4, "subject": "fishing net launcher gun with a rope net" },
+
+    { "id": "icon_leviathan_lance", "category": "icons_evolutions", "view": "icon", "count": 4, "subject": "glowing golden giant harpoon lance with blue energy" },
+    { "id": "icon_maelstrom_saw", "category": "icons_evolutions", "view": "icon", "count": 4, "subject": "huge saw blade surrounded by a swirling whirlpool of water" },
+    { "id": "icon_storm_beacon", "category": "icons_evolutions", "view": "icon", "count": 4, "subject": "lighthouse beacon shooting purple lightning bolts" },
+
+    { "id": "icon_hull_plating", "category": "icons_passives", "view": "icon", "count": 4, "subject": "riveted steel armor plate shield" },
+    { "id": "icon_engine", "category": "icons_passives", "view": "icon", "count": 4, "subject": "boat outboard motor engine" },
+    { "id": "icon_magnet", "category": "icons_passives", "view": "icon", "count": 4, "subject": "red horseshoe magnet" },
+    { "id": "icon_ammo_crate", "category": "icons_passives", "view": "icon", "count": 4, "subject": "open wooden ammo crate full of bullets" },
+    { "id": "icon_scope", "category": "icons_passives", "view": "icon", "count": 4, "subject": "brass telescope spyglass" },
+    { "id": "icon_desalinator", "category": "icons_passives", "view": "icon", "count": 4, "subject": "water purifier machine with a clean water droplet" },
+
+    { "id": "proj_harpoon", "category": "projectiles", "view": "sprite", "count": 4, "subject": "single metal harpoon spear bolt pointing up" },
+    { "id": "proj_saw", "category": "projectiles", "view": "sprite", "count": 4, "subject": "single circular saw blade, flat" },
+    { "id": "proj_mortar", "category": "projectiles", "view": "sprite", "count": 4, "subject": "single round red flare mortar shell" },
+    { "id": "proj_depth_charge", "category": "projectiles", "view": "sprite", "count": 4, "subject": "single yellow round depth charge mine floating" },
+    { "id": "proj_tesla_buoy", "category": "projectiles", "view": "sprite", "count": 4, "subject": "single floating buoy with a tesla coil on top" },
+    { "id": "proj_drone", "category": "projectiles", "view": "sprite", "count": 4, "subject": "single small quadcopter drone" },
+    { "id": "proj_net", "category": "projectiles", "view": "sprite", "count": 4, "subject": "single round fishing net spread open" },
+    { "id": "proj_raider_bullet", "category": "projectiles", "view": "sprite", "count": 4, "subject": "single glowing orange cannonball" },
+
+    { "id": "pickup_xp", "category": "pickups", "view": "icon", "count": 4, "subject": "small glowing cyan crystal shard" },
+    { "id": "pickup_scrap", "category": "pickups", "view": "icon", "count": 4, "subject": "small pile of scrap metal bolts and gears" },
+    { "id": "pickup_repair", "category": "pickups", "view": "icon", "count": 4, "subject": "floating white first aid crate with a red cross" },
+    { "id": "pickup_magnet", "category": "pickups", "view": "icon", "count": 4, "subject": "floating crate with a magnet symbol" },
+    { "id": "pickup_bomb", "category": "pickups", "view": "icon", "count": 4, "subject": "red explosive barrel with a warning sign" },
+
+    { "id": "prop_debris_1", "category": "props", "view": "sprite", "count": 4, "subject": "floating wooden planks and broken pallets debris" },
+    { "id": "prop_debris_2", "category": "props", "view": "sprite", "count": 4, "subject": "floating car roof and tires debris" },
+    { "id": "prop_buoy", "category": "props", "view": "sprite", "count": 4, "subject": "red and white floating navigation buoy" },
+
+    { "id": "keyart_cover", "category": "keyart", "view": "keyart", "count": 6, "width": 1344, "height": 768, "subject": "a small scrap raft fighting a swarm of sea monsters on a stormy flooded ocean, sunken city skyscrapers in the background" },
+    { "id": "keyart_platform", "category": "keyart", "view": "keyart", "count": 6, "width": 1344, "height": 768, "subject": "a cozy floating survivor platform made of shipping containers and scrap, calm sea, sunset, half sunken city behind" },
+    { "id": "keyart_portrait", "category": "keyart", "view": "keyart", "count": 6, "width": 832, "height": 1216, "subject": "a small scrap raft facing a giant sea monster rising from a stormy flooded ocean, vertical composition" }
+  ]
+}
